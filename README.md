@@ -1,2 +1,6 @@
 # NekoPlus
-phobos skid
+based phobos skid
+(have very cool colorpicked)
+
+
+https://discord.gg/XXvgV9YgS8 <-- best not phobos skid client
